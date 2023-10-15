@@ -1,4 +1,4 @@
-# Building Machine Learning Applications with Streamlit
+# A Machine Learning streamlt App to predict grocery sales.
 This Streamlit App allows you to predict future sales using the Prophet model. It provides an interface to input the number of days or weeks you want to predict and the frequency of predictions. The app uses the trained Prophet model to generate sales predictions and displays them along with a line graph of the predicted sales.
 ## Installation
 To run this app locally, you need to follow these steps:

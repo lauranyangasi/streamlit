@@ -42,4 +42,4 @@ For more information about the app or the sales prediction problem, please refer
    This project is licensed under the MIT License.
 
 ## Author
-Kevin Kegan Olome (Team San Diego)
+Laura Nyangasi Masambu (Team San Diego)
